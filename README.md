@@ -1,4 +1,4 @@
-# Snake Game 
+# Snake Game
 A classic Snake game built with Pygame as a school class project. Features numerous modes, difficulties, skins, and secret easter eggs!
 
 ## Running this game locally:
