@@ -1,7 +1,14 @@
 # Snake Game
+A classic Snake game built with Pygame as a school class project. Features numerous modes, difficulties, skins, and secret easter eggs!
 
-## Run
-Run Snake Game.py
+## Running this game locally:
+- Clone this project locally.
+```bash
+git clone <repo-url>
+cd snake-pygame
+```
+- Run `pip install -r requirements.txt` to install required libraries.
+- Run `python main.py'
 
 ## Controls
 Arrow keys or WASD to control the Snake in the main game.
@@ -46,7 +53,7 @@ Change the volume using the slider.
 Enable or disable the music.
 
 ### Sound effects
-Eanble or disable the sound effects.
+Enable or disable the sound effects.
 
 ## Skins
 ### Skin 1 (Plain)
@@ -58,7 +65,7 @@ Eanble or disable the sound effects.
 ### Skin 3 (Bonesaw)
 <img src="Assets/Skin/2.png" alt="Skin 3" width="200"/>
 
-### Skin 1 (Frisk)
+### Skin 4 (Frisk)
 <img src="Assets/Skin/3.png" alt="Skin 4" width="200"/>
 
 ## Easter eggs
